@@ -1,7 +1,7 @@
+#lang eopl
 ;Autores: Jose Luis Ramos Arango - 2159889; Juan Pablo Idarraga - 2160114; Juan Felipe Monsalve -2160145;
 ;Leider Cortes Hernandez - 2159879
 
-#lang eopl
 ;<record>
 ;  ::=’() empty-record
 ;  ::= <symbol> <element> <record>  non-empty-record(key, elm, record)
